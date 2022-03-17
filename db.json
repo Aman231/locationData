@@ -1,7 +1,9 @@
-[
-	{ "id": 1, "postal_code": "368219", "longitude": 46.9788288, "latitude": 42.9612827 },
-	{ "id": 2, "postal_code": "8712", "longitude": 121.29146, "latitude": 5.87568 },
-	{ "id": 3, "postal_code": "59215-000", "longitude": -35.4124355, "latitude": -6.4472391 },
-	{ "id": 4, "postal_code": "403930", "longitude": 109.799646, "latitude": 41.221015 },
-	{ "id": 5, "postal_code": "34555 AM", "longitude": 105.729085, "latitude": 35.963912 }
-]
+{
+	"data": [
+		{ "id": 1, "postal_code": "368219", "longitude": 46.9788288, "latitude": 42.9612827 },
+		{ "id": 2, "postal_code": "8712", "longitude": 121.29146, "latitude": 5.87568 },
+		{ "id": 3, "postal_code": "59215-000", "longitude": -35.4124355, "latitude": -6.4472391 },
+		{ "id": 4, "postal_code": "403930", "longitude": 109.799646, "latitude": 41.221015 },
+		{ "id": 5, "postal_code": "34555 AM", "longitude": 105.729085, "latitude": 35.963912 }
+	]
+}
